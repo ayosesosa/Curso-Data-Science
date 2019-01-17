@@ -1,0 +1,3 @@
+x <- list (a = 1:5, b= 10:20)
+y <-sapply (x, mean)
+print (y)
